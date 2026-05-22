@@ -3,7 +3,7 @@
 [🇧🇷 Português](./README.pt-br.md) • [🇺🇸 English](./README.md)
 
 <p align="center">
-  <img src="./images/inpe-logo.png" alt="INPE Logo" width="160"/>
+  <img src="../images/inpe-logo.png" alt="INPE Logo" width="160"/>
 </p>
 
 <p align="center">

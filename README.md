@@ -1,6 +1,6 @@
 # 🛰️ CCS-INPE
 
-[🇧🇷 Português](./README.pt-br.md) • [🇺🇸 English](./README.md)
+[🇧🇷 Português](./profile/README.pt-br.md) • [🇺🇸 English](./profile/README.md)
 
 <p align="center">
   <img src="./images/logo.png" alt="INPE Logo" width="160"/>
